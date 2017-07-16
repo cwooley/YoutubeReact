@@ -23,3 +23,19 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
+
+#State
+
+state is a javascript object.
+Used to record and react to user events
+
+Each class based componant has its own state object.
+Whenever its state is changed it and all of its children are forced to re-render
+
+before we use state we need to initialize it
+
+set state to a
+
+javascript classes have a special function called constructor
+(its like initialize for ruby.)
